@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_detail.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_hosloc.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_logo_hosloc.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospitals.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\hospitals.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_white_18dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_call_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_noncovid.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\item_noncovid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle_radius.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\bg_circle_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bed.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\activity_bed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shimmer2.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\item_shimmer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iteminfo.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\iteminfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hospital.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_iconmonstr_github_1.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_iconmonstr_github_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shimmer1.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\item_shimmer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_white_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_location_on_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_statusitem.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\statusitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adaitem.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\adaitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_prov.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\item_prov.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_hospitals.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\layout\\list_item_hospitals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_next_white_24dp.xml.flat",
+        "source": "C:\\Users\\Yo_10\\Downloads\\RSbed\\app\\src\\main\\res\\drawable\\ic_navigate_next_white_24dp.xml"
+    }
+]
