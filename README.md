@@ -4,7 +4,7 @@ Sebuah aplikasi android untuk mendapatkan informasi tentang rumah sakit di beber
 # Minimal Versi Android
 Api level 21 (Lollipop)
 # Download Aplikasi
-Kamu bisa mendownloadnya <a href="https://github.com/diahsriatna25/ProyekTAM_A/releases/download/download/base.apk">Disini</a>
+Kamu bisa mendownloadnya <a href="https://github.com/diahsriatna25/ProyekAkhirTAM_A/releases/download/Hosloc-App/base.1.apk">Disini</a>
 # Tampilan UI
 <img src="https://github.com/diahsriatna25/ProyekTAM_A/tree/download/Screenshoot/mockup1.jpeg"/>
 <img src="https://github.com/diahsriatna25/ProyekTAM_A/tree/download/Screenshoot/mockup2.jpeg"/>
